@@ -1,5 +1,5 @@
-### Hi there 👋
-<img width="883" alt="Screenshot 2023-09-06 at 9 06 08 PM" src="https://github.com/JetsonInfinity/JetsonInfinity/assets/144294007/88992b0f-8f7e-4857-82e0-47650b797c02">
+### Hi there 👋, Welcome to Jetson Infinity's Github
+<img width="884" alt="Screenshot 2023-09-06 at 9 07 25 PM" src="https://github.com/JetsonInfinity/JetsonInfinity/assets/144294007/d7c8be72-d5d5-465f-9f06-5918b646a132">
 
 <!--
 **JetsonInfinity/JetsonInfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
